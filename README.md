@@ -1,4 +1,4 @@
-<h2>Simple hello world in the address of the function execution</h2>
+<h2>Simple hello world in the address of the function execute</h2>
 
 ``` c
 #include <stdio.h>
