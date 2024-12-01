@@ -28,7 +28,7 @@ int main() {
     return 0;
 }
 ```
-<h2>hello world but you choose the memory address where to execute it</h2>
+<h2>Hello world but you choose the memory address where to execute it</h2>
 
 ``` c
 #include <stdio.h>
